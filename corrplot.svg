@@ -241,165 +241,165 @@
 	<line x1="3884.12" y1="254.64" x2="3884.12" y2="189.84" style="stroke:#F0F0F0;stroke-width:9.72"/>
 	<line x1="3884.12" y1="157.44" x2="3884.12" y2="113.40" style="stroke:#F0F0F0;stroke-width:9.72"/>
 	<defs>
-		<path id="path_PqQdicpa" d="M1588.78 840.54 L1588.78 840.54 L1588.78 1496.31 L2244.54 1496.31 L2244.54 840.54 L1588.78 840.54 Z" stroke-linejoin="round"/>
+		<path id="path_jpglUniq" d="M1588.78 840.54 L1588.78 840.54 L1588.78 1496.31 L2244.54 1496.31 L2244.54 840.54 L1588.78 840.54 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_HCQEFqDY">
-			<use xlink:href="#path_PqQdicpa"/>
+		<clipPath id="clipPath_TlrsVffm">
+			<use xlink:href="#path_jpglUniq"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_PqQdicpa" style="stroke:none;fill:#678CC9"/>
-	<use xlink:href="#path_PqQdicpa" style="fill:none;stroke:#678CC9;stroke-width:19.44" clip-path="url(#clipPath_HCQEFqDY)"/>
+	<use xlink:href="#path_jpglUniq" style="stroke:none;fill:#678CC9"/>
+	<use xlink:href="#path_jpglUniq" style="fill:none;stroke:#678CC9;stroke-width:19.44" clip-path="url(#clipPath_TlrsVffm)"/>
 	<defs>
-		<path id="path_hPunSFMj" d="M1588.78 1496.31 L1588.78 1496.31 L1588.78 1496.31 L1588.78 2152.07 L2244.54 2152.07 L2244.54 1496.31 L1588.78 1496.31 Z" stroke-linejoin="round"/>
+		<path id="path_eFoUCzQK" d="M1588.78 1496.31 L1588.78 1496.31 L1588.78 1496.31 L1588.78 2152.07 L2244.54 2152.07 L2244.54 1496.31 L1588.78 1496.31 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_jVhvBjBO">
-			<use xlink:href="#path_hPunSFMj"/>
+		<clipPath id="clipPath_AZHOlHeW">
+			<use xlink:href="#path_eFoUCzQK"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_hPunSFMj" style="stroke:none;fill:#678CC9"/>
-	<use xlink:href="#path_hPunSFMj" style="fill:none;stroke:#678CC9;stroke-width:19.44" clip-path="url(#clipPath_jVhvBjBO)"/>
+	<use xlink:href="#path_eFoUCzQK" style="stroke:none;fill:#678CC9"/>
+	<use xlink:href="#path_eFoUCzQK" style="fill:none;stroke:#678CC9;stroke-width:19.44" clip-path="url(#clipPath_AZHOlHeW)"/>
 	<defs>
-		<path id="path_rnHLXFXC" d="M2244.54 184.78 L2244.54 184.78 L2244.54 184.78 L2244.54 840.54 L2900.31 840.54 L2900.31 184.78 L2244.54 184.78 Z" stroke-linejoin="round"/>
+		<path id="path_RTljWNmA" d="M2244.54 184.78 L2244.54 184.78 L2244.54 184.78 L2244.54 840.54 L2900.31 840.54 L2900.31 184.78 L2244.54 184.78 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_kxtvFnnA">
-			<use xlink:href="#path_rnHLXFXC"/>
+		<clipPath id="clipPath_xgjqZXms">
+			<use xlink:href="#path_RTljWNmA"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_rnHLXFXC" style="stroke:none;fill:#678CC9"/>
-	<use xlink:href="#path_rnHLXFXC" style="fill:none;stroke:#678CC9;stroke-width:19.44" clip-path="url(#clipPath_kxtvFnnA)"/>
+	<use xlink:href="#path_RTljWNmA" style="stroke:none;fill:#678CC9"/>
+	<use xlink:href="#path_RTljWNmA" style="fill:none;stroke:#678CC9;stroke-width:19.44" clip-path="url(#clipPath_xgjqZXms)"/>
 	<defs>
-		<path id="path_LXMkVXOJ" d="M2900.31 184.78 L2900.31 184.78 L2900.31 184.78 L2900.31 840.54 L3556.07 840.54 L3556.07 184.78 L2900.31 184.78 Z" stroke-linejoin="round"/>
+		<path id="path_tbKNhjRJ" d="M2900.31 184.78 L2900.31 184.78 L2900.31 184.78 L2900.31 840.54 L3556.07 840.54 L3556.07 184.78 L2900.31 184.78 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_mEdxQHqx">
-			<use xlink:href="#path_LXMkVXOJ"/>
+		<clipPath id="clipPath_vjRdbuPL">
+			<use xlink:href="#path_tbKNhjRJ"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_LXMkVXOJ" style="stroke:none;fill:#678CC9"/>
-	<use xlink:href="#path_LXMkVXOJ" style="fill:none;stroke:#678CC9;stroke-width:19.44" clip-path="url(#clipPath_mEdxQHqx)"/>
+	<use xlink:href="#path_tbKNhjRJ" style="stroke:none;fill:#678CC9"/>
+	<use xlink:href="#path_tbKNhjRJ" style="fill:none;stroke:#678CC9;stroke-width:19.44" clip-path="url(#clipPath_vjRdbuPL)"/>
 	<defs>
-		<path id="path_owLiTYjp" d="M2244.54 2152.07 L2244.54 2152.07 L2244.54 2807.83 L2900.31 2807.83 L2900.31 2152.07 L2244.54 2152.07 Z" stroke-linejoin="round"/>
+		<path id="path_yyeuDlrY" d="M2244.54 2152.07 L2244.54 2152.07 L2244.54 2807.83 L2900.31 2807.83 L2900.31 2152.07 L2244.54 2152.07 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_TGznJnmY">
-			<use xlink:href="#path_owLiTYjp"/>
+		<clipPath id="clipPath_YJNEqLUm">
+			<use xlink:href="#path_yyeuDlrY"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_owLiTYjp" style="stroke:none;fill:#8D9ACB"/>
-	<use xlink:href="#path_owLiTYjp" style="fill:none;stroke:#8D9ACB;stroke-width:19.44" clip-path="url(#clipPath_TGznJnmY)"/>
+	<use xlink:href="#path_yyeuDlrY" style="stroke:none;fill:#8D9ACB"/>
+	<use xlink:href="#path_yyeuDlrY" style="fill:none;stroke:#8D9ACB;stroke-width:19.44" clip-path="url(#clipPath_YJNEqLUm)"/>
 	<defs>
-		<path id="path_BLPFmnpR" d="M3556.07 840.54 L3556.07 840.54 L3556.07 840.54 L3556.07 1496.31 L4211.83 1496.31 L4211.83 840.54 L3556.07 840.54 Z" stroke-linejoin="round"/>
+		<path id="path_pFukXhZA" d="M3556.07 840.54 L3556.07 840.54 L3556.07 840.54 L3556.07 1496.31 L4211.83 1496.31 L4211.83 840.54 L3556.07 840.54 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_VpACsZdo">
-			<use xlink:href="#path_BLPFmnpR"/>
+		<clipPath id="clipPath_HZtoOplc">
+			<use xlink:href="#path_pFukXhZA"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_BLPFmnpR" style="stroke:none;fill:#8D9ACB"/>
-	<use xlink:href="#path_BLPFmnpR" style="fill:none;stroke:#8D9ACB;stroke-width:19.44" clip-path="url(#clipPath_VpACsZdo)"/>
+	<use xlink:href="#path_pFukXhZA" style="stroke:none;fill:#8D9ACB"/>
+	<use xlink:href="#path_pFukXhZA" style="fill:none;stroke:#8D9ACB;stroke-width:19.44" clip-path="url(#clipPath_HZtoOplc)"/>
 	<defs>
-		<path id="path_rJONxzLs" d="M2900.31 2152.07 L2900.31 2152.07 L2900.31 2807.83 L3556.07 2807.83 L3556.07 2152.07 L2900.31 2152.07 Z" stroke-linejoin="round"/>
+		<path id="path_pmdWgQvW" d="M2900.31 2152.07 L2900.31 2152.07 L2900.31 2807.83 L3556.07 2807.83 L3556.07 2152.07 L2900.31 2152.07 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_OCUfxOsU">
-			<use xlink:href="#path_rJONxzLs"/>
+		<clipPath id="clipPath_uhKtNnCY">
+			<use xlink:href="#path_pmdWgQvW"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_rJONxzLs" style="stroke:none;fill:#B2B8D7"/>
-	<use xlink:href="#path_rJONxzLs" style="fill:none;stroke:#B2B8D7;stroke-width:19.44" clip-path="url(#clipPath_OCUfxOsU)"/>
+	<use xlink:href="#path_pmdWgQvW" style="stroke:none;fill:#B2B8D7"/>
+	<use xlink:href="#path_pmdWgQvW" style="fill:none;stroke:#B2B8D7;stroke-width:19.44" clip-path="url(#clipPath_uhKtNnCY)"/>
 	<defs>
-		<path id="path_Sblsqotr" d="M3556.07 1496.31 L3556.07 1496.31 L3556.07 1496.31 L3556.07 2152.07 L4211.83 2152.07 L4211.83 1496.31 L3556.07 1496.31 Z" stroke-linejoin="round"/>
+		<path id="path_cYOhcSqN" d="M3556.07 1496.31 L3556.07 1496.31 L3556.07 1496.31 L3556.07 2152.07 L4211.83 2152.07 L4211.83 1496.31 L3556.07 1496.31 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_axoKTaHC">
-			<use xlink:href="#path_Sblsqotr"/>
+		<clipPath id="clipPath_bOVujURq">
+			<use xlink:href="#path_cYOhcSqN"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_Sblsqotr" style="stroke:none;fill:#B2B8D7"/>
-	<use xlink:href="#path_Sblsqotr" style="fill:none;stroke:#B2B8D7;stroke-width:19.44" clip-path="url(#clipPath_axoKTaHC)"/>
+	<use xlink:href="#path_cYOhcSqN" style="stroke:none;fill:#B2B8D7"/>
+	<use xlink:href="#path_cYOhcSqN" style="fill:none;stroke:#B2B8D7;stroke-width:19.44" clip-path="url(#clipPath_bOVujURq)"/>
 	<defs>
-		<path id="path_LzVANsoy" d="M1588.78 2152.07 L1588.78 2152.07 L1588.78 2807.83 L2244.54 2807.83 L2244.54 2152.07 L1588.78 2152.07 Z" stroke-linejoin="round"/>
+		<path id="path_CLRwQcAn" d="M1588.78 2152.07 L1588.78 2152.07 L1588.78 2807.83 L2244.54 2807.83 L2244.54 2152.07 L1588.78 2152.07 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_FbuxiMor">
-			<use xlink:href="#path_LzVANsoy"/>
+		<clipPath id="clipPath_NBiylIIn">
+			<use xlink:href="#path_CLRwQcAn"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_LzVANsoy" style="stroke:none;fill:#CF9BA7"/>
-	<use xlink:href="#path_LzVANsoy" style="fill:none;stroke:#CF9BA7;stroke-width:19.44" clip-path="url(#clipPath_FbuxiMor)"/>
+	<use xlink:href="#path_CLRwQcAn" style="stroke:none;fill:#CF9BA7"/>
+	<use xlink:href="#path_CLRwQcAn" style="fill:none;stroke:#CF9BA7;stroke-width:19.44" clip-path="url(#clipPath_NBiylIIn)"/>
 	<defs>
-		<path id="path_nAzaoWNi" d="M2244.54 1496.31 L2244.54 1496.31 L2244.54 1496.31 L2244.54 2152.07 L2900.31 2152.07 L2900.31 1496.31 L2244.54 1496.31 Z" stroke-linejoin="round"/>
+		<path id="path_OlzThMlA" d="M2244.54 1496.31 L2244.54 1496.31 L2244.54 1496.31 L2244.54 2152.07 L2900.31 2152.07 L2900.31 1496.31 L2244.54 1496.31 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_vqKYHzgo">
-			<use xlink:href="#path_nAzaoWNi"/>
+		<clipPath id="clipPath_vSfntHmA">
+			<use xlink:href="#path_OlzThMlA"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_nAzaoWNi" style="stroke:none;fill:#CF9BA7"/>
-	<use xlink:href="#path_nAzaoWNi" style="fill:none;stroke:#CF9BA7;stroke-width:19.44" clip-path="url(#clipPath_vqKYHzgo)"/>
+	<use xlink:href="#path_OlzThMlA" style="stroke:none;fill:#CF9BA7"/>
+	<use xlink:href="#path_OlzThMlA" style="fill:none;stroke:#CF9BA7;stroke-width:19.44" clip-path="url(#clipPath_vSfntHmA)"/>
 	<defs>
-		<path id="path_gYIsTtex" d="M2900.31 840.54 L2900.31 840.54 L2900.31 840.54 L2900.31 1496.31 L3556.07 1496.31 L3556.07 840.54 L2900.31 840.54 Z" stroke-linejoin="round"/>
+		<path id="path_xthkfvrL" d="M2900.31 840.54 L2900.31 840.54 L2900.31 840.54 L2900.31 1496.31 L3556.07 1496.31 L3556.07 840.54 L2900.31 840.54 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_mjqxLFQN">
-			<use xlink:href="#path_gYIsTtex"/>
+		<clipPath id="clipPath_VQhyuUhT">
+			<use xlink:href="#path_xthkfvrL"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_gYIsTtex" style="stroke:none;fill:#CF9BA7"/>
-	<use xlink:href="#path_gYIsTtex" style="fill:none;stroke:#CF9BA7;stroke-width:19.44" clip-path="url(#clipPath_mjqxLFQN)"/>
+	<use xlink:href="#path_xthkfvrL" style="stroke:none;fill:#CF9BA7"/>
+	<use xlink:href="#path_xthkfvrL" style="fill:none;stroke:#CF9BA7;stroke-width:19.44" clip-path="url(#clipPath_VQhyuUhT)"/>
 	<defs>
-		<path id="path_aAsChxrD" d="M3556.07 184.78 L3556.07 184.78 L3556.07 184.78 L3556.07 840.54 L4211.83 840.54 L4211.83 184.78 L3556.07 184.78 Z" stroke-linejoin="round"/>
+		<path id="path_FTkShNKW" d="M3556.07 184.78 L3556.07 184.78 L3556.07 184.78 L3556.07 840.54 L4211.83 840.54 L4211.83 184.78 L3556.07 184.78 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_QymNozwR">
-			<use xlink:href="#path_aAsChxrD"/>
+		<clipPath id="clipPath_XWAoEvTL">
+			<use xlink:href="#path_FTkShNKW"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_aAsChxrD" style="stroke:none;fill:#CF9BA7"/>
-	<use xlink:href="#path_aAsChxrD" style="fill:none;stroke:#CF9BA7;stroke-width:19.44" clip-path="url(#clipPath_QymNozwR)"/>
+	<use xlink:href="#path_FTkShNKW" style="stroke:none;fill:#CF9BA7"/>
+	<use xlink:href="#path_FTkShNKW" style="fill:none;stroke:#CF9BA7;stroke-width:19.44" clip-path="url(#clipPath_XWAoEvTL)"/>
 	<defs>
-		<path id="path_qlaJbUdl" d="M1588.78 184.78 L1588.78 184.78 L1588.78 840.54 L2244.54 840.54 L2244.54 184.78 L1588.78 184.78 Z" stroke-linejoin="round"/>
+		<path id="path_PsGBmLbl" d="M1588.78 184.78 L1588.78 184.78 L1588.78 840.54 L2244.54 840.54 L2244.54 184.78 L1588.78 184.78 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_voMkNNmY">
-			<use xlink:href="#path_qlaJbUdl"/>
+		<clipPath id="clipPath_IZuKlsDL">
+			<use xlink:href="#path_PsGBmLbl"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_qlaJbUdl" style="stroke:none;fill:#BB6A89"/>
-	<use xlink:href="#path_qlaJbUdl" style="fill:none;stroke:#BB6A89;stroke-width:19.44" clip-path="url(#clipPath_voMkNNmY)"/>
+	<use xlink:href="#path_PsGBmLbl" style="stroke:none;fill:#BB6A89"/>
+	<use xlink:href="#path_PsGBmLbl" style="fill:none;stroke:#BB6A89;stroke-width:19.44" clip-path="url(#clipPath_IZuKlsDL)"/>
 	<defs>
-		<path id="path_mQeOUmNF" d="M2244.54 840.54 L2244.54 840.54 L2244.54 840.54 L2244.54 1496.31 L2900.31 1496.31 L2900.31 840.54 L2244.54 840.54 Z" stroke-linejoin="round"/>
+		<path id="path_DZbfErMr" d="M2244.54 840.54 L2244.54 840.54 L2244.54 840.54 L2244.54 1496.31 L2900.31 1496.31 L2900.31 840.54 L2244.54 840.54 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_rPYsANmG">
-			<use xlink:href="#path_mQeOUmNF"/>
+		<clipPath id="clipPath_UwUtQWjr">
+			<use xlink:href="#path_DZbfErMr"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_mQeOUmNF" style="stroke:none;fill:#BB6A89"/>
-	<use xlink:href="#path_mQeOUmNF" style="fill:none;stroke:#BB6A89;stroke-width:19.44" clip-path="url(#clipPath_rPYsANmG)"/>
+	<use xlink:href="#path_DZbfErMr" style="stroke:none;fill:#BB6A89"/>
+	<use xlink:href="#path_DZbfErMr" style="fill:none;stroke:#BB6A89;stroke-width:19.44" clip-path="url(#clipPath_UwUtQWjr)"/>
 	<defs>
-		<path id="path_aKFGiskT" d="M2900.31 1496.31 L2900.31 1496.31 L2900.31 1496.31 L2900.31 2152.07 L3556.07 2152.07 L3556.07 1496.31 L2900.31 1496.31 Z" stroke-linejoin="round"/>
+		<path id="path_XoggseWW" d="M2900.31 1496.31 L2900.31 1496.31 L2900.31 1496.31 L2900.31 2152.07 L3556.07 2152.07 L3556.07 1496.31 L2900.31 1496.31 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_cETeboDN">
-			<use xlink:href="#path_aKFGiskT"/>
+		<clipPath id="clipPath_EuDadJUI">
+			<use xlink:href="#path_XoggseWW"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_aKFGiskT" style="stroke:none;fill:#BB6A89"/>
-	<use xlink:href="#path_aKFGiskT" style="fill:none;stroke:#BB6A89;stroke-width:19.44" clip-path="url(#clipPath_cETeboDN)"/>
+	<use xlink:href="#path_XoggseWW" style="stroke:none;fill:#BB6A89"/>
+	<use xlink:href="#path_XoggseWW" style="fill:none;stroke:#BB6A89;stroke-width:19.44" clip-path="url(#clipPath_EuDadJUI)"/>
 	<defs>
-		<path id="path_jxjqRPIl" d="M3556.07 2152.07 L3556.07 2152.07 L3556.07 2152.07 L3556.07 2807.83 L4211.83 2807.83 L4211.83 2152.07 L3556.07 2152.07 Z" stroke-linejoin="round"/>
+		<path id="path_zxKamkxe" d="M3556.07 2152.07 L3556.07 2152.07 L3556.07 2152.07 L3556.07 2807.83 L4211.83 2807.83 L4211.83 2152.07 L3556.07 2152.07 Z" stroke-linejoin="round"/>
 	</defs>
 	<defs>
-		<clipPath id="clipPath_WzDKhToC">
-			<use xlink:href="#path_jxjqRPIl"/>
+		<clipPath id="clipPath_tBvxGtvz">
+			<use xlink:href="#path_zxKamkxe"/>
 		</clipPath>
 	</defs>
-	<use xlink:href="#path_jxjqRPIl" style="stroke:none;fill:#BB6A89"/>
-	<use xlink:href="#path_jxjqRPIl" style="fill:none;stroke:#BB6A89;stroke-width:19.44" clip-path="url(#clipPath_WzDKhToC)"/>
+	<use xlink:href="#path_zxKamkxe" style="stroke:none;fill:#BB6A89"/>
+	<use xlink:href="#path_zxKamkxe" style="fill:none;stroke:#BB6A89;stroke-width:19.44" clip-path="url(#clipPath_tBvxGtvz)"/>
 	<text x="1916.66" y="544.18" style="font-family:'Helvetica';font-size:89.94px;fill:#000000" text-anchor="middle">1.000</text>
 	<text x="1916.66" y="1199.95" style="font-family:'Helvetica';font-size:89.94px;fill:#000000" text-anchor="middle">-0.868</text>
 	<text x="1916.66" y="1855.71" style="font-family:'Helvetica';font-size:89.94px;fill:#000000" text-anchor="middle">-0.776</text>
